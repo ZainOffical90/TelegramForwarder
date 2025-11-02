@@ -51,7 +51,3 @@ You can specify one or more keywords that, if found in a message, trigger the fo
 - Remember to keep your API credentials secure and do not share them publicly.
 - Ensure that you have the necessary permissions to access messages in the chats you want to use.
 - Adjust the script's behavior and settings according to your requirements.
-
-## License
-
-This project is licensed under the MIT License.
